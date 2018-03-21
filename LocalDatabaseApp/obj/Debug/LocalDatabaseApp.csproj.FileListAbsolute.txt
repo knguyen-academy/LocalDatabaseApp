@@ -1,0 +1,11 @@
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Form1.resources
+C:\Users\khoinguyen\source\repos\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Form2.resources
